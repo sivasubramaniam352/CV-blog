@@ -1,0 +1,117 @@
+html {
+  font-family: sans-serif;
+  line-height: 1.15;
+
+}
+
+img {
+border-radius: 50%;
+float: left;
+box-shadow: 5px 10px 18px black;
+}
+
+.head  {
+  color:#ffffff;
+  width:500px;
+  padding: 50px;
+  margin: 20px;
+  border-radius:10%;
+  box-shadow: 5px 10px 18px black;
+  background-image: url("../img/bc.jpg");
+  opaci
+    font-family: tahoma;
+}
+ .left {
+  height: 200px;
+  width:200px;
+  background:linear-gradient(#9B5B40,#455062);
+  border-radius:10px 10px;
+	color: white;
+  border: none;
+  text-align: center;
+  display: inline-block;
+  font-size: 40px;
+  cursor: pointer;
+  box-shadow:5px 5px 5px black;
+  border-radius:10% ;
+  float:left;
+  text-decoration: none;
+}
+.leftp{
+  float:left;
+  margin-left: 20px;
+}
+.right{
+  height: 200px;
+  width:200px;
+  background:linear-gradient(#9B5B40,#455062);
+  border-radius:10px 10px;
+  color: white;
+  border: none;
+  text-align: center;
+  display: inline-block;
+  font-size: 35px;
+  cursor: pointer;
+  box-shadow:5px 5px 5px black;
+  border-radius:10% ;
+  float:right;
+    text-decoration: none;
+}
+.rightp{
+  float:right;
+  margin-right:20px;
+}
+.right2{
+  height: 200px;
+  width:200px;
+  background:linear-gradient(#9B5B40,#455062);
+  border-radius:10px 10px;
+  color: white;
+  border: none;
+  text-align: center;
+  display: inline-block;
+  font-size: 35px;
+  cursor: pointer;
+  box-shadow:5px 5px 5px black;
+  border-radius:10% ;
+  float:right;
+    text-decoration: none;
+}
+.left2 {
+ height: 200px;
+ width:200px;
+ background:linear-gradient(#9B5B40,#455062);
+ border-radius:10px 10px;
+ color: white;
+ border: none;
+ text-align: center;
+ display: inline-block;
+ font-size: 40px;
+ cursor: pointer;
+ box-shadow:5px 5px 5px black;
+ border-radius:10% ;
+ float:left;
+ text-decoration: none;
+}
+.cont{
+ height: 500px;
+ width:200px;
+ float: right;
+}
+.base{
+  height:1300px;
+  width:1200px;
+  padding: 50px;
+  margin: 20px;
+  border-radius:10px 10px;
+  box-shadow: 5px 10px 18px ;
+  background-image: url("../img/bc.jpg");
+  background-size: cover;
+    font-family: tahoma;
+
+}
+.end{
+  margin-top: 300px;
+  font-size: 30px;
+  margin-bottom: 100px;
+}
